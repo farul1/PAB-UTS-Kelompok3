@@ -1,6 +1,6 @@
 # 📘 Daftar Anggota Kelompok – Final Project PAB
 
-Berikut adalah daftar anggota beserta repository project yang dikerjakan masing-masing dalam Final Project mata kuliah **Pemrograman Aplikasi Bergerak**.
+Berikut adalah daftar anggota beserta repository project yang dikerjakan masing-masing dalam Final Project mata kuliah **Pengembangan Aplikasi Bergerak**.
 
 ---
 
